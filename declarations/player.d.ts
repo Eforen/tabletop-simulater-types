@@ -1,0 +1,17 @@
+declare type PlayerColor = PlayerColorWhite | PlayerColorBrown | PlayerColorRed | PlayerColorOrange | PlayerColorYellow | PlayerColorGreen | PlayerColorTeal | PlayerColorBlue | PlayerColorPurple | PlayerColorPink | PlayerColorGray | PlayerColorSpectator | PlayerColorBlack | PlayerColorGM | PlayerColorDM
+
+declare type PlayerColorWhite = 'White'
+declare type PlayerColorBrown = 'Brown'
+declare type PlayerColorRed = 'Red'
+declare type PlayerColorOrange = 'Orange'
+declare type PlayerColorYellow = 'Yellow'
+declare type PlayerColorGreen = 'Green'
+declare type PlayerColorTeal = 'Teal'
+declare type PlayerColorBlue = 'Blue'
+declare type PlayerColorPurple = 'Purple'
+declare type PlayerColorPink = 'Pink'
+declare type PlayerColorGray = 'Gray'
+declare type PlayerColorSpectator = 'Gray'
+declare type PlayerColorBlack = 'Black'
+declare type PlayerColorGM = 'Black'
+declare type PlayerColorDM = 'Black'
