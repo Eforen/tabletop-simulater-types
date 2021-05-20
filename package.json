@@ -1,6 +1,6 @@
 {
   "name": "tabletop-simulater-types",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Typescript definitions for making code that can be transpiled to Tabletop Simulator's Lua Implementation",
   "main": "declarations/index.d.ts",
   "scripts": {
